@@ -2,7 +2,7 @@
 # C23-PS093 || Bangkit Capstone Project (TravelYours)
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/60882820/244879120-6062b890-f465-4695-bc55-a0ad9109ca26.png" alt="Travel Yours" width="50%"><br>
+    <img src="https://user-images.githubusercontent.com/60882820/244960507-7449c071-e5c3-49e4-adfb-ed389459a5d4.png" alt="Travel Yours"><br>
 </p>
 
 
