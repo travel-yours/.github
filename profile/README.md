@@ -1,5 +1,5 @@
 
-# C23-PS093 || Bangkit Capstone Project (TravelYours)
+# C23-PS083 || Bangkit Capstone Project (TravelYours)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/60882820/244960507-7449c071-e5c3-49e4-adfb-ed389459a5d4.png" alt="Travel Yours"><br>
